@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · YnHwGp5e -->
-## Notification 1/2
-Round: Round 1
-To: silverarch@aol.com, nuexquisite@yahoo.com
-At: 2026-09-16 14:23:24
-Id: YnHwGp5e
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: wongobunny@sbcglobal.net, lewis_randy@msn.com
+At: 2026-09-16 14:23:32
+Id: 2v7MG7HW
